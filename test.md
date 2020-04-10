@@ -1,0 +1,3 @@
+ 
+
+<script src="counter"></script>
